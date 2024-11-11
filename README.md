@@ -2,7 +2,8 @@
 
 A simple To-Do List application created with HTML, CSS, and JavaScript. This app allows users to add tasks, mark them as complete, and delete them. All tasks are stored in `localStorage`, so they persist even when the page is refreshed.
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c8f95346-3fd1-4652-ae49-b73e9368d204)
+
 
 
 ## Features
